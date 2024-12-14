@@ -6,6 +6,6 @@ button.className = "button";
 
 button.addEventListener("click", function() {
   // Mở URL trong tab mới khi click
-  window.open("https://shorturl.at/BG8G1", "_blank");
+  window.open("https://libgen.is/", "_blank");
 });
 document.getElementById("view-full").appendChild(button);
